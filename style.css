@@ -1,0 +1,158 @@
+/*header*/
+
+.header{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.logo{
+    height: 30.57px;
+    vertical-align: middle;
+}
+
+.nav{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+
+.home{
+    font-size: 22px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.mtavari{
+    color: #EE4036;
+}
+
+.news{
+    font-size: 22px;
+    color: #3D58A6;
+    list-style: none;
+    margin-left: 22px;
+    display: inline-block;
+}
+
+.contact{
+    font-size: 22px;
+    color: #3D58A6;
+    list-style: none;
+    margin-left: 29px;
+    display: inline-block;
+}
+
+/*header-end*/
+
+
+
+.banner{
+    margin-top: 77px;
+    margin-left: 98px;
+    margin-bottom: 119.59px;
+}
+
+.featured{
+    font-size: 24px;
+    margin-left: 98px;
+    margin-bottom: 31px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+/*box-1*/
+
+.box1{
+    width: 570px;
+    height: 225px;
+    background-color: #F2F2F2;
+    margin-left: 98px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 29px;
+}
+
+.title{
+    font-size: 22px;
+    margin-left: 20.77px;
+    margin-top: 13.05px;
+    color: #3D58A6;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.photo1{
+    height: 130.5px;
+    margin-top: 12.72px;
+    margin-left: 38.78px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.text1{
+    display: inline-block;
+    width: 355px;
+    margin-left: 60px;
+    font-size: 20px;
+    box-sizing: border-box;
+    vertical-align: middle;
+    margin-top: 12.72px;
+    font-family: 'Lobster Two', cursive;
+}
+
+
+
+/*box-2*/
+
+.box2{
+    width: 570px;
+    height: 225px;
+    background-color: #F2F2F2;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.photo2{
+    height: 128px;
+    margin-left: 63px;
+    margin-top: 21px;
+    vertical-align: middle;
+}
+
+.text2{
+    display: inline-block;
+    width: 355px;
+    margin-left: 60px;
+    font-size: 20px;
+    vertical-align: middle;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+
+/*footer*/
+
+.footer{
+    margin-top: 68px;
+    margin-left: 110px;
+    margin-bottom: 39px;
+}
+
+.fblogo{
+    height: 30px;
+}
+
+.line{
+    width: 2px;
+    height: 27px;
+    background-color: #363E97;
+    margin-left: 36px;
+    display: inline-block;
+}
+
+.youtube{
+    height: 30px;
+    margin-left: 30px;
+}
+
+/*footer-end*/
